@@ -1,0 +1,31 @@
+.hide {
+  displaY:none;
+}
+
+.drop-down {
+  margin-left: 60px;
+  margin-right: 3px;
+  margin-top: -1px;
+  border: 1px solid gray;
+  width: 100%;
+  border-radius: 2px;
+  box-shadow: 0px 2px 4px 0px rgb(0 0 0 / 50%);
+  background-color: white;
+
+  & > li {
+
+    display: flex;
+    flex-flow: column;
+    align-items: baseline;
+    padding-left: 20px;
+
+
+
+    & .drop-down-item {
+      p {
+         margin-bottom: 0;
+       }
+    }
+
+  }
+}

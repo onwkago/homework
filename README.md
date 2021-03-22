@@ -42,6 +42,6 @@ Sukurkite paieškos _autocomplete_ web komponentą, kurio pagalba vartotojas gal
 
 ## Dizainas
 
-![Default state](images/default_state.png?raw=true "Default state")
-![Results state](images/results_state.png?raw=true "Results state")
-![Selected text](images/selected_state.png?raw=true "Selected state")
+![Default state](app/src/images/default_state.png?raw=true "Default state")
+![Results state](app/src/images/results_state.png?raw=true "Results state")
+![Selected text](app/src/images/selected_state.png?raw=true "Selected state")
